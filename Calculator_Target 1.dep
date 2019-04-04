@@ -1,0 +1,32 @@
+Dependencies for Project 'Calculator', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x584AEC84)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I"C:\Users\James Collins\Desktop\PROJECT_v2\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="521" -D_RTE_ -DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (main.h)(0x584AEC73)
+I (LCD.h)(0x5845D024)
+I (Keypad.h)(0x5845D4DE)
+I (Port_Init.h)(0x584AEC5A)
+I (PLL.h)(0x5845D024)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574EA096)
+F (.\LCD.c)(0x584AEAA1)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I"C:\Users\James Collins\Desktop\PROJECT_v2\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="521" -D_RTE_ -DTM4C123GH6PM-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+I (LCD.h)(0x5845D024)
+I (PLL.h)(0x5845D024)
+F (.\Keypad.c)(0x584AEB1A)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I"C:\Users\James Collins\Desktop\PROJECT_v2\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="521" -D_RTE_ -DTM4C123GH6PM-o .\keypad.o --omf_browse .\keypad.crf --depend .\keypad.d)
+I (Keypad.h)(0x5845D4DE)
+I (Port_Init.h)(0x584AEC5A)
+F (.\PLL.c)(0x5845D1B1)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I"C:\Users\James Collins\Desktop\PROJECT_v2\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="521" -D_RTE_ -DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (PLL.h)(0x5845D024)
+F (.\Port_Init.c)(0x584AEC08)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I"C:\Users\James Collins\Desktop\PROJECT_v2\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="521" -D_RTE_ -DTM4C123GH6PM-o .\port_init.o --omf_browse .\port_init.crf --depend .\port_init.d)
+I (Port_Init.h)(0x584AEC5A)
+F (.\LCD.h)(0x5845D024)()
+F (.\Keypad.h)(0x5845D4DE)()
+F (.\PLL.h)(0x5845D024)()
+F (.\Port_Init.h)(0x584AEC5A)()
+F (.\main.h)(0x584AEC73)()
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B6F216)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I"C:\Users\James Collins\Desktop\PROJECT_v2\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x5253BA34)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I"C:\Users\James Collins\Desktop\PROJECT_v2\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="521" -D_RTE_ -DTM4C123GH6PM-o .\system_tm4c123.o --omf_browse .\system_tm4c123.crf --depend .\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EA096)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F0106)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FF03C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm4.h)(0x57D81F4A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D81F4A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EB70DC)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6F216)
